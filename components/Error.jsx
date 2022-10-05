@@ -15,7 +15,7 @@ export default function Error() {
                 Error
               </Typography>
               <Typography id="error-description" variant="h6" component="h4" sx={{textAlign: "center"}}>
-                Oops, look's like somethings gone wrong with getting the joke.
+                Oops, look&apos;s like somethings gone wrong with getting the joke.
               </Typography>
             </CardContent>
           </Grid>

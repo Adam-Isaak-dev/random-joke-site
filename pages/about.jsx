@@ -26,7 +26,7 @@ export default function About(props) {
                 <Link href="https://mui.com/">Material UI</Link> - A UI component set for React.
               </li>
               <li>
-                <Link href="https://github.com/15Dkatz/official_joke_api">David Katz's Official Joke API</Link> - A fun and free API for getting random jokes. 
+                <Link href="https://github.com/15Dkatz/official_joke_api">David Katz&apos;s Official Joke API</Link> - A fun and free API for getting random jokes. 
               </li>
             </ul>
           </Typography>

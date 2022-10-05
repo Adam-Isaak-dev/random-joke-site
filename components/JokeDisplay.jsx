@@ -36,7 +36,7 @@ export default function JokeDisplay(props) {
       <Dialog 
         open={open}
         onClose={handleClose}
-        aria-labeledby="punchline-dialog-title"
+        aria-labelledby="punchline-dialog-title"
         aria-describedby="punchline-dialog-description"
       >
         <DialogContent>

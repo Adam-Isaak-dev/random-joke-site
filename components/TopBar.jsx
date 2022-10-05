@@ -23,7 +23,7 @@ const TopBar = () => {
         <Toolbar disableGutters sx={{display: 'flex', alignItems: "center", justifyContent: "center"}}>
           <Link href="/">
             <Button variant="text" sx={{fontFamily: 'Slackey', color: "white", fontSize: 20}} >
-              Random Dad Joke's
+              Random Dad Joke&apos;s
             </Button>
           </Link>
         </Toolbar>
