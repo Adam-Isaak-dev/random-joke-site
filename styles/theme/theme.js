@@ -1,5 +1,5 @@
 import { createTheme } from '@mui/material/styles';
-import '@fontsource/roboto';
+import '@fontsource/roboto/500.css';
 
 const theme = createTheme({
   palette: {
